@@ -31,7 +31,7 @@ rem会一直变，而某些情况下 你会希望 iPhone5 iPhone6 上某些段�
 
 ####这是图片放大至200% 所显示的细节差距
 
- ![dpr - font 200%](resource/dpr - font 200%.png)
+ ![dpr - font 200%](resource/dpr - font2x.png)
  
 ####原因是：
  
